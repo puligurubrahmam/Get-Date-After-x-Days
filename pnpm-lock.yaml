@@ -1,0 +1,18 @@
+dependencies:
+  add-days: 2.0.1
+  date-fns: 2.19.0
+lockfileVersion: 5.2
+packages:
+  /add-days/2.0.1:
+    dev: false
+    resolution:
+      integrity: sha512-6JSCF4SIZWi7nx52D42wOEhdhVCxtMxDIwvfIB2oYbOI/M/HyjFzO9KY5NKtPYQOGfCVBKPdOz/E5Gv0KZk9WQ==
+  /date-fns/2.19.0:
+    dev: false
+    engines:
+      node: '>=0.11'
+    resolution:
+      integrity: sha512-X3bf2iTPgCAQp9wvjOQytnf5vO5rESYRXlPIVcgSbtT5OTScPcsf9eZU+B/YIkKAtYr5WeCii58BgATrNitlWg==
+specifiers:
+  add-days: ^2.0.1
+  date-fns: 2.19.0
